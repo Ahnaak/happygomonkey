@@ -1,1 +1,1 @@
-# happygomonkey
+# monkey-go-happy
